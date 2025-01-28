@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Use Routes i
 import Home from './Home';
 import About from './About';
 import Form from './Form';
-import './styles.css';
+import './Styles.css';
 import Contact from './Contact'; // assuming you create a Contact.js file
 
 
